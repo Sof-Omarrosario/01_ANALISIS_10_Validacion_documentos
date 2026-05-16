@@ -1,2 +1,2 @@
-# 01_ANALISIS_10_Validaci-n_documentos
+# 01_ANALISIS_10_Validacion_documentos
 Repositorio validación documentos
